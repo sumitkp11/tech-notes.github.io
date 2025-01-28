@@ -1,3 +1,4 @@
+[Lambda Notes] (/Lambda)
 # What is DynamoDB?
 - DynamoDB is a fully managed NoSQL database service which is designed to handle large-scale, high-traffic applications. It supports key-value and document data models.
 # What is NoSQL? How does it differ with SQL database?
